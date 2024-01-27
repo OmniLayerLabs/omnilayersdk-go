@@ -1,6 +1,6 @@
-![Unit Tests](https://github.com/Layr-Labs/eigensdk-go/actions/workflows/unit-tests.yml/badge.svg)
-![Linter](https://github.com/Layr-Labs/eigensdk-go/actions/workflows/golangci-lint.yml/badge.svg)
-![Go Coverage](https://github.com/Layr-Labs/eigensdk-go/wiki/coverage.svg)
+![Unit Tests](https://github.com/OmniLayerLabs/omnilayersdk-go/actions/workflows/unit-tests.yml/badge.svg)
+![Linter](https://github.com/OmniLayerLabs/omnilayersdk-go/actions/workflows/golangci-lint.yml/badge.svg)
+![Go Coverage](https://github.com/OmniLayerLabs/omnilayersdk-go/wiki/coverage.svg)
 
 <p align="center"><b>
 🚧 Under active development. OMNILAYERSDK-GO is rapidly being upgraded, features are being added, interfaces will have breaking changes 🚧
